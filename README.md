@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Matéo, aka Matteolsj 👋
 
-<!--
-**Matteolsj/Matteolsj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at Sorbonne Université in Paris, France.
 
-Here are some ideas to get you started:
+I enjoy building software projects and exploring AI, backend development, and software engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+### [Project Stelle](https://github.com/Matteolsj/project-stelle)
+A local AI companion built with Python, featuring voice interaction, persistent memory, and a modular architecture.
+
+### [SingOnLight](https://github.com/Bigouz/SingOnLight)
+A sound-controlled rhythm game developed as a team project, which I later continued independently by improving the codebase and adding a simulation mode.
+
+## Technologies
+
+- **Languages:** Python, JavaScript, HTML, CSS
+- **Areas of interest:** AI, backend development, software engineering
+
+## Links
+
+[LinkedIn](https://www.linkedin.com/in/mateo-liu) · [GitHub](https://github.com/Matteolsj)
